@@ -1,1 +1,1 @@
-# Tiva4C-microcontroller-board_firmware_in_C
+# Tiva-C launchpad firmware in C.
