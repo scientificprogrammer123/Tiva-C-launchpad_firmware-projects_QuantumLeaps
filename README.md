@@ -3,39 +3,31 @@ Lessons and firmware programs on microcontroller firmware programming from youtu
 These programs are run using the Texas Instruments Tiva-C microcontroller board, which uses a ARM Cortex M4 microcontroller.
 The programming environment is IAR Embedded Workbench IDE, lesson 19 uses TI Code Composer Studio.
 
-lesson 1: 
+lesson 1: how computers count
 
-lesson 2:
+lesson 2: variables
 
-lesson 3:
+lesson 3: pointers
 
-lesson 4: 
+lesson 4: peripheral registers
 
-lesson 5: 
+lesson 5: constants/preprocessor
 
-lesson 6: 
+lesson 6: functions
 
-lesson 7: 
+lesson 7: the C stack
 
-lesson 8: 
+lesson 8: function-like macros
 
-lesson 9: 
+lesson 9: file inclusion/header files
 
-lesson 10: 
+lesson 10: compilation modules
 
-lesson 11: 
+lesson 11: interrupts
 
-lesson 12: 
+lesson 12: context switch
 
-lesson 13: 
-
-lesson 14: 
-
-lesson 15: 
-
-lesson 16: 
-
-lesson 17: 
+lesson 13: classes in C
 
 lesson 18: 
 
