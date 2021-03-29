@@ -1,1 +1,1 @@
-# Tiva-C launchpad firmware in C.
+# Texas instruments Tiva-C launchpad firmware projects in C.
